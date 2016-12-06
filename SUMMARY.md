@@ -62,14 +62,7 @@
        * [7.6.2 附加安全头](7/7.6.2 Auxiliary security header.md)
        * [7.6.3 安全操作](7/7.6.3 Security operations.md)
    * [7.7 消息队列图表](7/7.1.1 Message sequence charts illustrating MAC-PHY interaction.md)
-* 附录 A
-* 附录 B
-* 附录 C
-* 附录 D
-* 附录 E
-* 附录 F
-* 附录 G
-   * [7.8 G3适配层](7/7.8 G3 Adaptation Layer.md)
+   * [7.8 G3适配层](7/7.8 G3 Adaptation Laye.md)
        * [7.8.1 服务与原语](7/7.8.1 Services and Primitives.md)
        * [7.8.2 信息库属性](7/7.8.2 Information Base Attributes.md)
        * [7.8.3 信息库属性值描述](7/7.8.3 IB Attributes Values Description.md)
@@ -79,18 +72,21 @@
        * [7.8.7 碎片修复](7/7.8.7 Fragment Recovery.md)(**draft-thubert-6lowpan-simple-fragment-recovery-02**)
        * [7.8.8 监听模式](7/7.8.8 Spy Mode.md)
        * [7.8.9 功能说明](7/7.8.9 Functional Description.md)
-    * [7.9 安全](7/7.9 Security.md)
-    * [7.10 附件](7/7.8.10 Annexes.md)
-         * [7.10.1 附件1:协议实现一致性声明](7/7.10.1 Annex 1.md)
-         * [7.10.2 附件2:路由花费](7/7.10.2 Annex 2.md)
-         * [7.10.3 附件3:适配层服务原语](7/7.10.3 Annex 3.md)
-         * [7.10.4 附件4:特殊参数介绍](7/7.10.4 Annex 4.md)
-         * [7.10.5 附件5:修改的MAC数据原语](7/7.10.5 Annex 5.md)
-         * [7.10.6 附件6:MAC确认](7/7.10.6 Annex 6.md)
-         * [7.10.7 附件7:设备启动消息序列](7/7.10.7 Annex 7.md)
-
-         * 7.10.3 Annex 3: Adaptation Layer Service Primitives 适配层服务原语
-         * 7.10.4 Annex 4 特殊参数介绍
-         * 7.10.5 Annex 5: Modified MAC Data Primitives
-         * 7.10.6 Annex : MAC acknowledgement MAC确认
-         * 7.10.7 Annex 7 Device Starting Sequence of messages
+   * [7.9 安全](7/7.9 Security.md)
+   * [7.10 附件](7/7.10 Annexes.md)
+    * [7.10.1 附件1:协议实现一致性声明](7/7.10.1 Annex 1.md)
+    * [7.10.2 附件2:路由花费](7/7.10.2 Annex 2.md)
+    * [7.10.3 附件3:适配层服务原语](7/7.10.3 Annex 3.md)
+      * [7.10.3.1 附件3.1:ADP数据服务](7/7.10.3.1 ADP Data service.md)
+      * [7.10.3.2 附件3.2:ADP管理服务](7/7.10.3.2 ADP Management service.md)
+      * [7.10.3.3 附件3.3:MAC适应特性](7/7.10.3.3 Behavior to MAC Indications.md)
+    * [7.10.4 附件4:特殊参数介绍](7/7.10.4 Annex 4.md)
+      * [7.10.4.1 附件4.1:频道访问](7/7.10.4.1 Channel access.md)
+      * [7.10.4.2 附件4.2: 帧间间隔](7/7.10.4.2 Interframe IFS Spacing.md)
+      * [7.10.4.3 附件4.3:CSMA-CA](7/7.10.4.3 CSMA-CA.md)
+      * [7.10.4.4 附件4.4:优先](7/7.10.4.4 Priority.md)
+      * [7.10.4.5 附件4.5:ARQ自动重发请求](7/7.10.4.5 ARQ.md)
+      * [7.10.4.6 附件4.6:分割和重组概述](7/7.10.4.6 Segmentation and reassembly overview.md)
+    * [7.10.5 附件5:修改的MAC数据原语](7/7.10.5 Annex 5.md)
+    * [7.10.6 附件6:MAC确认](7/7.10.6 Annex 6.md)
+    * [7.10.7 附件7:设备启动消息序列](7/7.10.7 Annex 7.md)
